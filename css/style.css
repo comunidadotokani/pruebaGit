@@ -17,6 +17,7 @@ button:hover{
 	transform: scale(1.2);
 	letter-spacing: 3px;
 	color: white;
+	border: 3px red;
 }
 
 button{
